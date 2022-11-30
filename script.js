@@ -22,8 +22,8 @@
 // console.log(townName);
 // townName = "Moscow";
 // console.log(townName);
-const userData = {
-  name: "Ivan",
-  age: 34,
-};
-console.log(typeof userData);
+// const userData = {
+//   name: "Ivan",
+//   age: 34,
+// };
+// console.log(typeof userData);
